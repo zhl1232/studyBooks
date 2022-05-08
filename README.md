@@ -33,7 +33,7 @@ HTML 实现没啥好书，还不如看 [菜鸟教程](https://www.runoob.com/htm
 - [JavaScript基础教程（第8版)](./JavaScript/JavaScript基础教程（第8版).pdf)
 - [javascript-promise-book](./JavaScript/javascript-promise-book.pdf)
 ## Git
-[learngit 🔥] (https://learngitbranching.js.org/?locale=zh_CN) 可视化的学习
+[learngit 🔥](https://learngitbranching.js.org/?locale=zh_CN) 可视化的学习
 ## 算法
 
 ## 设计模式
