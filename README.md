@@ -32,11 +32,12 @@ HTML 实现没啥好书，还不如看 [菜鸟教程](https://www.runoob.com/htm
 - [JavaScript语言精粹[修订版]🔥](./JavaScript/JavaScript语言精粹[修订版].pdf)
 - [JavaScript基础教程（第8版)](./JavaScript/JavaScript基础教程（第8版).pdf)
 - [javascript-promise-book](./JavaScript/javascript-promise-book.pdf)
-
+## Git
+[learngit 🔥] (https://learngitbranching.js.org/?locale=zh_CN) 可视化的学习
 ## 算法
 
 ## 设计模式
 
 ## 正则表达式
 - [learn-regex🔥](https://github.com/zhl1232/learn-regex)
-- [regexlearn 🔥](https://regexlearn.com/zh-cn)  通关式的学习
+- [regexlearn 🔥🔥](https://regexlearn.com/zh-cn)  通关式的学习
